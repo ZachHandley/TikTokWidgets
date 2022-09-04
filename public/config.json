@@ -1,6 +1,6 @@
 {
 
-  "uniqueId": "santajclaus",
+  "uniqueId": "kingjaylynasmr",
   "fontSize": 64,
   "fontWeight": 800,
   "fadeIn": 2000,
@@ -20,7 +20,7 @@
 
   "enabled": {
     "gift": true,
-    "subscribe": false,
+    "subscribe": true,
     "follow": true
   },
 
